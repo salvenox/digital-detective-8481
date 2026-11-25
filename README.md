@@ -1,64 +1,18 @@
-# The Digital Detective
 
-## Explore Your Computer — Build a Mini System Report
+## My Learning
 
-Welcome to my Digital Detective project!
+Through this project, I learned the following concepts:
 
-This repository contains my practical learning activities completed as part of the Diwali Independent Learning Assignment.
+1. **Computer Fundamentals:** Understood the IPOS model and the difference between hardware and software.
 
-The purpose of this project is to explore how computers work, understand operating system concepts, practise command-line operations, learn basic programming and explore computer networks.
+2. **Terminal & Command Line:** Practised commands such as `pwd`, `ls`, `grep`, `sort`, and `wc`. Also learned about flags and pipes.
 
-## Mission Index
+3. **Operating Systems:** Learned about processes, PID, memory, storage, file paths, and file permissions.
 
-| Mission | Topic | Folder |
-|---|---|---|
-| 00 | Repository Setup | [Mission 00](mission-00-setup/) |
-| 01 | Computer Fundamentals | [Mission 01](mission-01-computer-basics/) |
-| 02 | Terminal and File Management | [Mission 02](mission-02-terminal/) |
-| 03 | Operating System | [Mission 03](mission-03-operating-system/) |
-| 04 | How Programs Run | [Mission 04](mission-04-programs/) |
-| 05 | Numbers and Data Representation | [Mission 05](mission-05-numbers-data/) |
-| 06 | Git and GitHub | [Mission 06](mission-06-git-github/) |
-| 07 | Computer Networking | [Mission 07](mission-07-networking/) |
-| 08 | Final Report | [Mission 08](mission-08-final-report/) |
+4. **Python Programming:** Created and executed my first Python program using `print()`.
 
-## Topics Covered
+5. **Number Systems:** Learned Decimal, Binary, and Hexadecimal conversions and created a simple Python number converter.
 
-- Computer hardware and software
-- Input, Processing, Output and Storage (IPOS)
-- Terminal commands and file management
-- Operating systems and processes
-- Python programming
-- Binary, decimal and hexadecimal number systems
-- ASCII and UTF-8 encoding
-- Git version control and GitHub
-- Computer networking and DNS
+6. **ASCII Encoding:** Learned how characters are represented using numerical codes.
 
-## Running the Number Converter
-
-Navigate to the Mission 05 folder:
-
-```bash
-cd mission-05-numbers-data
-```
-
-Run the Python program:
-
-```bash
-python3 number_converter.py
-```
-
-## Learning Summary
-
-This project is designed to build practical understanding of computer fundamentals, programming, operating systems, version control and networking through hands-on activities.
-
-Each mission is documented separately and committed to GitHub as part of the learning process.
-
-## Project Structure
-
-The repository is organised into separate folders for each mission to make the work easy to navigate and review.
-
----
-
-**Project:** The Digital Detective  
-**Assignment:** Diwali Independent Learning Assignment
+7. **Git & GitHub:** Practised creating branches, tracking changes, committing files, and pushing changes to GitHub.
